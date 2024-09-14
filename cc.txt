@@ -1,1 +1,2 @@
 Cloud computing mainly deliver it resources as service
+Paas - Platfor as service
